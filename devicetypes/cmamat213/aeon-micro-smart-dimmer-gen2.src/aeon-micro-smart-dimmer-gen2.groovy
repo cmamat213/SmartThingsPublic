@@ -7,7 +7,7 @@
  */
 metadata {
 	// Automatically generated. Make future change here.
-	definition (name: "Aeon Labs Micro Smart Dimmer Gen2", namespace: "cmamatey", author: "Chase Mamatey") {
+	definition (name: "Aeon Labs Micro Smart Dimmer Gen2", namespace: "cmamat213", author: "Chase Mamatey") {
 		capability "Energy Meter"
 		capability "Switch Level"
 		capability "Actuator"
